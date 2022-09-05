@@ -1,1 +1,0 @@
-Hello this file is created from Vim text editior and i will push this into masterepo.
