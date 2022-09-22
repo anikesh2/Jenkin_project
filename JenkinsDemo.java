@@ -1,5 +1,5 @@
 class JenkinsDemo{
 public static void main(String args[]){
-  System.out.println("Hurray!! you are done");
+  System.out.println("Hurray!!");
   }
 }
